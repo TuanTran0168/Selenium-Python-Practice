@@ -1,2 +1,2 @@
 # Selenium-Python-Practice
-Kiểm thử tự động bằng Selenium bằng python
+Luyện tập kiểm thử tự động bằng Selenium Python 3/2023
